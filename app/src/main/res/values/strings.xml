@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Androdi Dasar</string>
+    <string name="count">Hitung</string>
+    <string name="loading">Loading...</string>
+    <string name="paragraf">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pharetra sem sit amet mi sodales, quis mattis urna tincidunt. Mauris a mauris vitae felis consequat fringilla at in enim. Nulla erat enim, hendrerit id cursus faucibus, sollicitudin quis augue. Nulla nibh ligula, pulvinar vel enim ut, ullamcorper pharetra risus. Donec justo enim, mollis vel fringilla ac, iaculis quis arcu. Phasellus libero augue, rutrum a tristique scelerisque, auctor non lacus. Nulla eget leo sed felis faucibus euismod at ac sem. Donec finibus, dui volutpat sodales consequat, justo neque rutrum neque, eu posuere lectus nisl eget sapien. Vivamus porttitor ultricies eros, eget laoreet quam accumsan ac.
+    \n\n
+    Fusce pulvinar tortor a viverra gravida. Pellentesque ut ornare magna. Duis urna ante, consectetur ut enim eleifend, malesuada faucibus mi. Vivamus ac felis ex. Cras convallis blandit finibus. Ut molestie libero id vestibulum tincidunt. Ut non facilisis elit.
+    \n\n
+    In hac habitasse platea dictumst. Duis vestibulum maximus purus, at tincidunt magna ornare ac. Fusce ornare vel arcu ac congue. Cras eget ex id dolor congue gravida. Nullam massa tortor, tempor non lectus sed, feugiat sodales magna. Nunc rhoncus tortor a vehicula fermentum. Quisque vel eleifend mauris. Phasellus non varius nulla. Curabitur ut augue at nisi cursus gravida. Aliquam et sem quis eros aliquet hendrerit. Praesent ut congue lacus. Sed non enim vitae quam blandit dignissim.
+    \n\n
+    Donec lacinia libero nunc, non mollis est molestie id. Donec molestie tempor scelerisque. Mauris et urna nunc. Etiam a lorem vel lectus semper mollis. Etiam dictum commodo pulvinar. Nunc finibus erat hendrerit, fringilla est facilisis, porttitor risus. In hac habitasse platea dictumst.
+    \n\n
+    Donec ultricies in turpis id lacinia. Nam et leo dolor. Aenean non finibus erat. In ornare felis vitae nibh viverra facilisis. Curabitur imperdiet ante quis orci consectetur, eu auctor dolor pellentesque. Maecenas turpis lectus, pellentesque eu ultricies quis, sodales sit amet nunc. Aenean maximus fringilla mauris, sit amet malesuada metus imperdiet id. Donec accumsan eu lorem sed dictum. Aliquam fringilla egestas risus, in dapibus felis fringilla a. Praesent efficitur faucibus mattis. Aenean pellentesque ipsum sem, et pellentesque risus posuere et. Sed posuere metus vitae ligula tincidunt semper. Praesent quis orci non libero eleifend dapibus et dictum lectus. Vestibulum vitae odio in ante molestie gravida. Duis nec ultricies mauris. Fusce pulvinar dictum justo in pretium.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pharetra sem sit amet mi sodales, quis mattis urna tincidunt. Mauris a mauris vitae felis consequat fringilla at in enim. Nulla erat enim, hendrerit id cursus faucibus, sollicitudin quis augue. Nulla nibh ligula, pulvinar vel enim ut, ullamcorper pharetra risus. Donec justo enim, mollis vel fringilla ac, iaculis quis arcu. Phasellus libero augue, rutrum a tristique scelerisque, auctor non lacus. Nulla eget leo sed felis faucibus euismod at ac sem. Donec finibus, dui volutpat sodales consequat, justo neque rutrum neque, eu posuere lectus nisl eget sapien. Vivamus porttitor ultricies eros, eget laoreet quam accumsan ac.
+    \n\n
+    Fusce pulvinar tortor a viverra gravida. Pellentesque ut ornare magna. Duis urna ante, consectetur ut enim eleifend, malesuada faucibus mi. Vivamus ac felis ex. Cras convallis blandit finibus. Ut molestie libero id vestibulum tincidunt. Ut non facilisis elit.
+    \n\n
+    In hac habitasse platea dictumst. Duis vestibulum maximus purus, at tincidunt magna ornare ac. Fusce ornare vel arcu ac congue. Cras eget ex id dolor congue gravida. Nullam massa tortor, tempor non lectus sed, feugiat sodales magna. Nunc rhoncus tortor a vehicula fermentum. Quisque vel eleifend mauris. Phasellus non varius nulla. Curabitur ut augue at nisi cursus gravida. Aliquam et sem quis eros aliquet hendrerit. Praesent ut congue lacus. Sed non enim vitae quam blandit dignissim.
+    \n\n
+    Donec lacinia libero nunc, non mollis est molestie id. Donec molestie tempor scelerisque. Mauris et urna nunc. Etiam a lorem vel lectus semper mollis. Etiam dictum commodo pulvinar. Nunc finibus erat hendrerit, fringilla est facilisis, porttitor risus. In hac habitasse platea dictumst.
+    \n\n
+    Donec ultricies in turpis id lacinia. Nam et leo dolor. Aenean non finibus erat. In ornare felis vitae nibh viverra facilisis. Curabitur imperdiet ante quis orci consectetur, eu auctor dolor pellentesque. Maecenas turpis lectus, pellentesque eu ultricies quis, sodales sit amet nunc. Aenean maximus fringilla mauris, sit amet malesuada metus imperdiet id. Donec accumsan eu lorem sed dictum. Aliquam fringilla egestas risus, in dapibus felis fringilla a. Praesent efficitur faucibus mattis. Aenean pellentesque ipsum sem, et pellentesque risus posuere et. Sed posuere metus vitae ligula tincidunt semper. Praesent quis orci non libero eleifend dapibus et dictum lectus. Vestibulum vitae odio in ante molestie gravida. Duis nec ultricies mauris. Fusce pulvinar dictum justo in pretium.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
